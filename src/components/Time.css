@@ -1,0 +1,40 @@
+.time_div {
+  text-transform: uppercase;
+  margin-top: 3px;
+  justify-content: space-between;
+}
+
+.date_h1 {
+  font-size: 50px;
+}
+
+.month_h4 {
+  font-size: 16px;
+  margin-top: 6px;
+  color: rgba(92, 89, 89, 0.973);
+}
+.year_h4 {
+  margin-top: -8px;
+  font-size: 16px;
+  color: rgba(126, 122, 122, 0.973);
+}
+
+.day_h4 {
+  font-size: 25px;
+}
+
+.time_div_date {
+  margin-left: 60px;
+  text-align: left;
+}
+
+.time_div_month {
+  margin-top: 4px;
+  margin-left: -190px;
+}
+
+.time_div_day {
+  margin-top: 15px;
+  text-align: right;
+  margin-right: 60px;
+}

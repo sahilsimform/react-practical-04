@@ -1,0 +1,75 @@
+.textArea {
+  text-align: center;
+  width: 80%;
+  height: 60px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: none;
+  padding: 2px 20px;
+  margin-top: 6px;
+  margin-bottom: 5px;
+  font-size: 20px;
+  line-height: 24px;
+}
+.icon_btn {
+  text-align: right;
+}
+.dis_main {
+  text-align: left;
+  margin-left: 60px;
+}
+.btnAdd {
+  width: 80%;
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: none;
+  padding: 2px 20px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  font-size: 17px;
+  line-height: 24px;
+}
+
+.Input_Text {
+  text-align: center;
+}
+
+.btnAdd:hover {
+  background-color: #54cf58ce;
+  color: rgb(255, 255, 255);
+}
+
+.Add_btn_main {
+  background-color: #54cf58ce;
+  border: none;
+  color: white;
+  padding: 30px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  margin: -45% 45%;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.btn_div {
+  margin-top: 10%;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
+.icon_btn {
+  margin-right: 100px;
+}
+
+.complete {
+  text-decoration: line-through;
+  opacity: 0.4;
+}
+
+.checkIcon {
+  color: #54cf58ce;
+}
